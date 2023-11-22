@@ -252,9 +252,9 @@ public class TransferenciaConBloqueo {
 
 ## Imagen de ejecución del programa:
 
-![img](img.png)
+![img](src/tarea5/img.png)
 
-![img](img_1.png)
+![img](src/tarea5/img_1.png)
 
 
 ## Resumen
